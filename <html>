@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title>hello world</title>
+	</head>
+	<body>
+  <header>
+    <div id="logo">Rocking Stone</div>
+    <nav>...</nav>
+  </header>
+  <main role="main">
+    <h1>Guitars</h1>
+    <p>The greatest guitars ever built.</p>
+
+    <article>
+      <h2>Gibson SG</h2>
+      <p>...</p>
+    </article>
+
+    <article>
+      <h2>Fender Telecaster</h2>
+      <p>...</p>
+    </article>
+  	</main>
+	</body>
+	<blockquote>
+  <p>For writing maintainable and scalable HTML documents.</p>
+
+  <footer>— HTML Best Practices</footer>
+</blockquote>
+</html>
